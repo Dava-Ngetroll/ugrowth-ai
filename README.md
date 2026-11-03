@@ -1,2 +1,2 @@
 # ugrowth-ai
-ugrowth-ai for prediction markaet sales product (rice, sugar, oil ,etc) and simulation policy
+ugrowth-ai for prediction market sales product (rice, sugar, oil ,etc) especially an pasar and simulation policy
